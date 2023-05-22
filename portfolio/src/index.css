@@ -1,0 +1,25 @@
+body {
+    background: linear-gradient( #606060 30%, #303030 90%) !important;
+}
+
+.header h1 {
+    font-size: 80px;
+}
+
+.header h3 {
+    font-size: 30px;
+}
+
+.navBox {
+    align-content: center !important;
+    justify-Content: center !important;
+    padding: 10px !important;
+}
+
+.navButton {
+    color: rgb(240, 240, 240) !important;
+    background-color: black !important;
+    padding: 10px !important;
+    margin: 20px !important;
+    
+}
